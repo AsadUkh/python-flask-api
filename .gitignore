@@ -1,0 +1,26 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+myenv/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore database files
+*.sqlite
+*.db
+
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+*.iml
+*.ipynb_checkpoints/
+
+# Ignore configuration files with sensitive information
+config.ini
+secrets.json
+
+
